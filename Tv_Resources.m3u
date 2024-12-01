@@ -322,13 +322,17 @@ http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台电视台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",武林外传
-http://live.iill.top/yy.php?id=1355652820
+http://111.67.193.2:35455/yy/1355652820
+#EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",家有儿女2
+http://120.77.28.4:8648/huya.php?id=11352872
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",庆余年
 http://120.77.28.4:8648/huya.php?id=11352960
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",地下交通站
-http://159.75.85.63:35455/huya/11342433?cdn=hwcdn
+http://120.77.28.4:8648/huya.php?id=11342433
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",甄嬛传
 http://zby.xjqxz.top/live8/live.m3u8
+#EXTINF:-1 tvg-name="如懿传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",如懿传
+https://www.goodiptv.club/huya/29465868
 #EXTINF:-1 tvg-name="知否知否" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",知否知否
 http://zby.xjqxz.top/zfzf/live.m3u8
 #EXTINF:-1 tvg-name="三生三世" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",三生三世
@@ -367,3 +371,9 @@ http://111.67.193.2:35455/yy/1355142167
 https://lunbo.freetv.top/yy/1382735574
 #EXTINF:-1 tvg-name="小欢喜" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",小欢喜
 http://111.67.193.2:35455/yy/1382737888
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典动漫",海绵宝宝
+http://120.77.28.4:8648/huya.php?id=/11352919
+#EXTINF:-1 tvg-name="经典港剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",经典港剧
+http://120.77.28.4:8648/huya.php?id=11352965
+#EXTINF:-1 tvg-name="开心麻花" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",开心麻花
+http://120.77.28.4:8648/huya.php?id=11601968
