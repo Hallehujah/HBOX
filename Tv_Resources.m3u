@@ -317,3 +317,7 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="经典影视",武林外传
 http://live.iill.top/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="经典影视",庆余年
+http://159.75.85.63:35455/huya/11352960?cdn=txcdn
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="经典影视",地下交通站
+http://159.75.85.63:35455/huya/11342433?cdn=hwcdn
