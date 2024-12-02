@@ -393,6 +393,8 @@ http://dns.yiandrive.com:16813/huya/30080238
 http://dns.yiandrive.com:16813/huya/21059564
 #EXTINF:-1 tvg-name="生活大爆炸" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",生活大爆炸
 http://111.67.193.2:35455/douyu/6668627
+#EXTINF:-1 tvg-name="老友记" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",老友记
+http://dns.yiandrive.com:16813/huya/26355834
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",狂飙
 http://111.67.193.2:35455/yy/1355142167
 #EXTINF:-1 tvg-name="天道" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",天道
