@@ -343,10 +343,14 @@ https://www.goodiptv.club/huya/29465868
 http://zby.xjqxz.top/zfzf/live.m3u8
 #EXTINF:-1 tvg-name="三生三世" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",三生三世
 http://zby.xjqxz.top/sssszss/live.m3u8
+#EXTINF:-1 tvg-name="爱情公寓2" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",爱情公寓2
+https://www.goodiptv.club/bilibili/22056077
 #EXTINF:-1 tvg-name="爱情公寓3" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",爱情公寓3
 https://www.goodiptv.club/douyu/6566658
 #EXTINF:-1 tvg-name="爱情公寓4" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",爱情公寓4
 https://www.goodiptv.club/huya/11336726
+#EXTINF:-1 tvg-name="爱情公寓1-4" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",爱情公寓1-4
+https://www.goodiptv.club/bilibili/1921509095
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",铁齿铜牙纪晓岚
 https://www.goodiptv.club/huya/11342396
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",新三国
@@ -397,3 +401,13 @@ https://www.goodiptv.club/huya/11352889
 https://www.goodiptv.club/huya/11352965
 #EXTINF:-1 tvg-name="开心麻花" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",开心麻花
 https://www.goodiptv.club/huya/11601968
+#EXTINF:-1 tvg-name="哈利波特" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",哈利波特
+https://www.goodiptv.club/bilibili/31780106
+#EXTINF:-1 tvg-name="直播南京" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="自习室",直播南京
+https://www.goodiptv.club/bilibili/23112806
+#EXTINF:-1 tvg-name="Light_Music" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="自习室",Light_Music
+https://www.goodiptv.club/bilibili/14907697
+#EXTINF:-1 tvg-name="直播地球" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="自习室",直播地球
+https://www.goodiptv.club/bilibili/22973029
+#EXTINF:-1 tvg-name="世界街景" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="自习室",世界街景
+https://www.goodiptv.club/bilibili/24825664
