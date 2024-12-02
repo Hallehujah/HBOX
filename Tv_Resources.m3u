@@ -345,10 +345,12 @@ http://111.67.193.2:35455/douyu/11827530
 https://www.goodiptv.club/huya/11352872
 #EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",东北一家人
 http://111.67.193.2:35455/douyu/7642724
-#EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",炊事班的故事
+#EXTINF:-1 tvg-name="炊事班的故事1" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",炊事班的故事
+http://111.67.193.2:35455/yy/1382749901
+#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",炊事班的故事
 http://111.67.193.2:35455/douyu/319576
-#EXTINF:-1 tvg-name="雀刀门" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",雀刀门
-https://www.goodiptv.club/huya/11352963
+#EXTINF:-1 tvg-name="鹊刀门" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",雀刀门
+http://111.67.193.2:35455/yy/1355344777
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",庆余年
 http://111.67.193.2:35455/douyu/5062195
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",地下交通站
@@ -432,7 +434,7 @@ https://www.goodiptv.club/huya/11352889
 #EXTINF:-1 tvg-name="经典港剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",经典港剧
 https://www.goodiptv.club/huya/11352965
 #EXTINF:-1 tvg-name="速度与激情" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",速度与激情
-https://www.goodiptv.club/huya/21059556
+http://111.67.193.2:35455/yy/1382736911
 #EXTINF:-1 tvg-name="开心麻花" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",开心麻花
 https://www.goodiptv.club/huya/11601968
 #EXTINF:-1 tvg-name="哈利波特" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典电影",哈利波特
@@ -447,5 +449,7 @@ http://111.67.193.2:35455/bilibili/22973029
 http://111.67.193.2:35455/bilibili/24825664
 #EXTINF:-1 tvg-name="风味人间" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="记录片",风味人间
 https://www.goodiptv.club/huya/26355760
+#EXTINF:-1 tvg-name="舌尖上的中国2" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="记录片",舌尖上的中国2
+http://111.67.193.2:35455/yy/1354930943
 #EXTINF:-1 tvg-name="健身操" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="健身",健身操
 http://111.67.193.2:35455/douyin/782122895572
