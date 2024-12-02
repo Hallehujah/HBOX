@@ -316,9 +316,11 @@ https://0472.org/hls/cgtnx
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台电视台",凤凰中文
-http://www.terrykang.cn:5678/sxg.php?id=test1_4000%24%E8%AE%A2%E9%98%85%E6%BA%90
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台电视台",凤凰资讯
-http://117.27.190.42:9998/tsfile/live/23279_1?key=txiptv&playlive=1&authid=0%24%E8%AE%A2%E9%98%85%E6%BA%90
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台电视台",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="港澳台电视台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live%24%E8%AE%A2%E9%98%85%E6%BA%90
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",武林外传
