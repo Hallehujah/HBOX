@@ -332,13 +332,13 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="國際频道",鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+https://tv.iill.top/MyTV/PCC
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="國際频道",鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+https://tv.iill.top/MyTV/PIN
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="國際频道",鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+https://tv.iill.top/MyTV/PHK
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="國際频道",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+https://tv.iill.top/MyTV/DTV
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="國際频道",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="國際频道",黃金翡翠台
@@ -352,24 +352,24 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="國際频道",無線新聞台(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="國際频道",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+https://tv.iill.top/MyTV/P
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",武林外传
 http://111.67.193.2:35455/yy/1355652820
-#EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",家有儿女2
+#EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",家有儿女2
 http://111.67.193.2:35455/douyu/11827530
 #EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",家有儿女2
 https://www.goodiptv.club/huya/11352872
-#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",东北一家人
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",东北一家人
 http://111.67.193.2:35455/douyu/7642724
 #EXTINF:-1 tvg-name="炊事班的故事1" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",炊事班的故事1
 http://111.67.193.2:35455/yy/1382749901
-#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",炊事班的故事3
+#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",炊事班的故事3
 http://111.67.193.2:35455/douyu/319576
 #EXTINF:-1 tvg-name="鹊刀门" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",鹊刀门
 http://111.67.193.2:35455/yy/1355344777
-#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",庆余年
+#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",庆余年
 http://111.67.193.2:35455/douyu/5062195
-#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",地下交通站
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",地下交通站
 http://111.67.193.2:35455/douyu/299854
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",甄嬛传
 http://zby.xjqxz.top/live8/live.m3u8
@@ -385,7 +385,7 @@ http://zby.xjqxz.top/sssszss/live
 https://www.goodiptv.club/huya/26355839
 #EXTINF:-1 tvg-name="爱情公寓2" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓2
 http://111.67.193.2:35455/bilibili/22056077
-#EXTINF:-1 tvg-name="爱情公寓3" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",爱情公寓3
+#EXTINF:-1 tvg-name="爱情公寓3" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",爱情公寓3
 http://111.67.193.2:35455/douyu/6566658
 #EXTINF:-1 tvg-name="爱情公寓4" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓4
 http://111.67.193.2:35455/bilibili/31546095
@@ -395,7 +395,7 @@ http://111.67.193.2:35455/bilibili/1921509095
 https://www.goodiptv.club/huya/11342396
 #EXTINF:-1 tvg-name="87红楼梦" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",87红楼梦
 https://www.goodiptv.club/huya/30080221
-#EXTINF:-1 tvg-name="新三国" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",新三国
+#EXTINF:-1 tvg-name="新三国" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",新三国
 http://111.67.193.2:35455/douyu/5908256
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",亮剑
 https://www.goodiptv.club/huya/30080238
@@ -425,7 +425,7 @@ https://www.goodiptv.club/huya/29465862
 https://www.goodiptv.club/huya/30080238
 #EXTINF:-1 tvg-name="破产姐妹" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",破产姐妹
 https://www.goodiptv.club/huya/21059564
-#EXTINF:-1 tvg-name="生活大爆炸" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典影视",生活大爆炸
+#EXTINF:-1 tvg-name="生活大爆炸" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",生活大爆炸
 http://111.67.193.2:35455/douyu/6668627
 #EXTINF:-1 tvg-name="老友记" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",老友记
 https://www.goodiptv.club/huya/26355834
@@ -437,7 +437,7 @@ https://lunbo.freetv.top/yy/1382735574
 http://111.67.193.2:35455/yy/1382737888
 #EXTINF:-1 tvg-name="都挺好" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",都挺好
 http://111.67.193.2:35455/yy/1382736892
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典动漫",海绵宝宝
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典动漫",海绵宝宝
 http://111.67.193.2:35455/douyu/3949681
 #EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",樱桃小丸子
 https://www.goodiptv.club/huya/11342394
@@ -449,7 +449,7 @@ https://www.goodiptv.club/huya/11601963
 https://www.goodiptv.club/huya/11352879
 #EXTINF:-1 tvg-name="头文字D" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",头文字D
 https://www.goodiptv.club/huya/11352889
-#EXTINF:-1 tvg-name="柯南" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典动漫",柯南
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典动漫",柯南
 http://111.67.193.2:35455/douyu/6484910
 #EXTINF:-1 tvg-name="经典港片" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",经典港片
 http://111.67.193.2:35455/yy/23531261
@@ -467,7 +467,7 @@ https://www.goodiptv.club/huya/11601968
 http://111.67.193.2:35455/yy/1382745105
 #EXTINF:-1 tvg-name="变形金刚" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典电影",变形金刚
 http://111.67.193.2:35455/yy/1382736803
-#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="经典电影",豆瓣高分
+#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典电影",豆瓣高分
 http://111.67.193.2:35455/douyu/8770422
 #EXTINF:-1 tvg-name="自习室一" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",自习室一
 http://111.67.193.2:35455/bilibili/14811517
@@ -477,13 +477,9 @@ http://111.67.193.2:35455/bilibili/23112806
 http://111.67.193.2:35455/bilibili/14907697
 #EXTINF:-1 tvg-name="直播地球" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",直播地球
 http://111.67.193.2:35455/bilibili/22973029
-#EXTINF:-1 tvg-name="世界街景" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",世界街景
-http://111.67.193.2:35455/bilibili/24825664
 #EXTINF:-1 tvg-name="风味人间" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="纪录片",风味人间
 https://www.goodiptv.club/huya/26355760
 #EXTINF:-1 tvg-name="舌尖上的中国2" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",舌尖上的中国2
-http://111.67.193.2:35455/yy/1354930943
-#EXTINF:-1 tvg-name="美食纪录" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",美食纪录
 http://111.67.193.2:35455/yy/1354930943
 #EXTINF:-1 tvg-name="从秦始皇到汉武帝" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",从秦始皇到汉武帝
 http://111.67.193.2:35455/yy/1354936228
