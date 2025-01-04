@@ -91,113 +91,6 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031120/index.m3u8?
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.iill.top/logo/青海卫视.png" group-title="•卫视「IPV6」",青海卫视「IPV6」
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=YanG-1989
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•國際「AKTV」",鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•國際「AKTV」",鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•國際「AKTV」",鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•國際「AKTV」",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠台 4K
-http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•國際「AKTV」",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="•國際「AKTV」",無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="•國際「AKTV」",無線新聞台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•國際「AKTV」",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•國際「AKTV」",明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•國際「AKTV」",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="•國際「AKTV」",ViuTV
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="•國際「AKTV」",ViuTVsix
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="•國際「AKTV」",千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.iill.top/logo/娱乐新闻.png" group-title="•國際「AKTV」",娛樂新聞台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.iill.top/logo/美亚电影.png" group-title="•國際「AKTV」",美亞電影台
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://epg.iill.top/logo/星影台.png" group-title="•國際「AKTV」",now 星影
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.iill.top/logo/爆谷台.png" group-title="•國際「AKTV」",now 爆谷
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="•國際「AKTV」",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.iill.top/logo/ANIMAX.png" group-title="•國際「AKTV」",Animax
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="•國際「AKTV」",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="•國際「AKTV」",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="28AI智慧赛马" tvg-name="28AI智慧赛马" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•國際「AKTV」",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•國際「AKTV」",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="ASTROAECHD" tvg-name="ASTROAECHD" tvg-logo="https://epg.iill.top/logo/AEC.png" group-title="•國際「AKTV」",astro AEC
-http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-#EXTINF:-1 tvg-id="IQIYIHD" tvg-name="IQIYIHD" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" group-title="•國際「AKTV」",astro iQIYI
-http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-#EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="•國際「AKTV」",astro Xing He
-http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-#EXTINF:-1 tvg-id="CH5(HD)" tvg-name="CH5(HD)" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="•國際「AKTV」",Channel 5
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="CH8(HD)" tvg-name="CH8(HD)" tvg-logo="https://epg.iill.top/logo/Channel8.png" group-title="•國際「AKTV」",Channel 8
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="CHU(HD)" tvg-name="CHU(HD)" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="•國際「AKTV」",Channel U
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="•國際「AKTV」",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="•國際「AKTV」",TVBS 新聞
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.iill.top/logo/中天亚洲.png" group-title="•國際「AKTV」",中天亞洲
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="•國際「AKTV」",中天新聞
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.iill.top/logo/中视.png" group-title="•國際「AKTV」",中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/华视.png" group-title="•國際「AKTV」",華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.iill.top/logo/寰宇新闻.png" group-title="•國際「AKTV」",寰宇新聞
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.iill.top/logo/靖天电影.png" group-title="•國際「AKTV」",靖天電影
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.iill.top/logo/龙华日韩.png" group-title="•國際「AKTV」",龍華日韓
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://epg.iill.top/logo/龙华经典.png" group-title="•國際「AKTV」",龍華經典
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="•國際「AKTV」",龍華電影
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="IFUN动漫台" tvg-name="IFUN动漫台" tvg-logo="https://epg.iill.top/logo/IFUN动漫.png" group-title="•國際「AKTV」",i-Fun 動漫
-http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="•國際「AKTV」",Kix
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="•國際「AKTV」",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 tvg-id="CNAHD" tvg-name="CNAHD" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="•國際「AKTV」",CNA
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.iill.top/logo/DW.png" group-title="•國際「AKTV」",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="FRANCE24EHD" tvg-name="FRANCE24EHD" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="•國際「AKTV」",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="•國際「AKTV」",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="•國際「AKTV」",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="•國際「AKTV」",ZooMoo
-
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" group-title="•NewTV「IPV6」",NewTV 哒啵电竞「IPV6」
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" group-title="•NewTV「IPV6」",NewTV 哒啵赛事「IPV6」
@@ -415,6 +308,113 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•央视「IPV4」",CCTV 17 农村农业「IPV4」
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•國際「AKTV」",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•國際「AKTV」",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•國際「AKTV」",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•國際「AKTV」",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠台 4K
+http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•國際「AKTV」",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「AKTV」",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="•國際「AKTV」",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="•國際「AKTV」",無線新聞台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•國際「AKTV」",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•國際「AKTV」",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•國際「AKTV」",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="•國際「AKTV」",ViuTV
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="•國際「AKTV」",ViuTVsix
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="•國際「AKTV」",千禧經典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.iill.top/logo/娱乐新闻.png" group-title="•國際「AKTV」",娛樂新聞台
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.iill.top/logo/美亚电影.png" group-title="•國際「AKTV」",美亞電影台
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://epg.iill.top/logo/星影台.png" group-title="•國際「AKTV」",now 星影
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.iill.top/logo/爆谷台.png" group-title="•國際「AKTV」",now 爆谷
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="•國際「AKTV」",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.iill.top/logo/ANIMAX.png" group-title="•國際「AKTV」",Animax
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="•國際「AKTV」",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="•國際「AKTV」",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="28AI智慧赛马" tvg-name="28AI智慧赛马" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•國際「AKTV」",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•國際「AKTV」",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-id="ASTROAECHD" tvg-name="ASTROAECHD" tvg-logo="https://epg.iill.top/logo/AEC.png" group-title="•國際「AKTV」",astro AEC
+http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+#EXTINF:-1 tvg-id="IQIYIHD" tvg-name="IQIYIHD" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" group-title="•國際「AKTV」",astro iQIYI
+http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="•國際「AKTV」",astro Xing He
+http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+#EXTINF:-1 tvg-id="CH5(HD)" tvg-name="CH5(HD)" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="•國際「AKTV」",Channel 5
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="CH8(HD)" tvg-name="CH8(HD)" tvg-logo="https://epg.iill.top/logo/Channel8.png" group-title="•國際「AKTV」",Channel 8
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="CHU(HD)" tvg-name="CHU(HD)" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="•國際「AKTV」",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="•國際「AKTV」",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="•國際「AKTV」",TVBS 新聞
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.iill.top/logo/中天亚洲.png" group-title="•國際「AKTV」",中天亞洲
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="•國際「AKTV」",中天新聞
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.iill.top/logo/中视.png" group-title="•國際「AKTV」",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/华视.png" group-title="•國際「AKTV」",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.iill.top/logo/寰宇新闻.png" group-title="•國際「AKTV」",寰宇新聞
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.iill.top/logo/靖天电影.png" group-title="•國際「AKTV」",靖天電影
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.iill.top/logo/龙华日韩.png" group-title="•國際「AKTV」",龍華日韓
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://epg.iill.top/logo/龙华经典.png" group-title="•國際「AKTV」",龍華經典
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="•國際「AKTV」",龍華電影
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-id="IFUN动漫台" tvg-name="IFUN动漫台" tvg-logo="https://epg.iill.top/logo/IFUN动漫.png" group-title="•國際「AKTV」",i-Fun 動漫
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="•國際「AKTV」",Kix
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="•國際「AKTV」",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-id="CNAHD" tvg-name="CNAHD" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="•國際「AKTV」",CNA
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.iill.top/logo/DW.png" group-title="•國際「AKTV」",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-id="FRANCE24EHD" tvg-name="FRANCE24EHD" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="•國際「AKTV」",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="•國際「AKTV」",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="•國際「AKTV」",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="•國際「AKTV」",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+
 IPV4卫视,#genre#
 河南卫视,
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8#https://pi.0472.org/live/hnws.m3u8?token=162210
@@ -490,7 +490,7 @@ http://jiaojirentv.top/2020/yy.php?id=1355652820
 #EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",家有儿女2
 http://jiaojirentv.top/2020/dy.php?id=11827530
 #EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",家有儿女2
-https://www.goodiptv.club/huya/11352872
+http://dns.yiandrive.com:15907/huya/11352872
 #EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",东北一家人
 http://jiaojirentv.top/2020/dy.php?id=7642724
 #EXTINF:-1 tvg-name="炊事班的故事1" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",炊事班的故事1
@@ -506,17 +506,17 @@ http://jiaojirentv.top/2020/dy.php?id=299854
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",甄嬛传
 https://raw.gitcode.com/Hallehujah_h/HOX/raw/main//playlist.m3u
 #EXTINF:-1 tvg-name="如懿传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",如懿传
-https://www.goodiptv.club/huya/29465868
+http://dns.yiandrive.com:15907/huya/29465868
 #EXTINF:-1 tvg-name="芈月传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",芈月传
-https://www.goodiptv.club/huya/26355775
+http://dns.yiandrive.com:15907/huya/26355775
 #EXTINF:-1 tvg-name="知否知否" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",知否知否
 http://jiaojirentv.top/2020/yy.php?id=21881901
 #EXTINF:-1 tvg-name="三生三世" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",三生三世
 http://zby.xjqxz.top/sssszss/live
 #EXTINF:-1 tvg-name="花千骨" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",花千骨
-https://www.goodiptv.club/huya/26355839
+http://dns.yiandrive.com:15907/huya/26355839
 #EXTINF:-1 tvg-name="梦华录" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",梦华录
-https://www.goodiptv.club/huya/11336590
+http://dns.yiandrive.com:15907/huya/11336590
 #EXTINF:-1 tvg-name="爱情公寓1" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓1
 https://www.goodiptv.club/bilibili/1746146330
 #EXTINF:-1 tvg-name="爱情公寓2" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓2
@@ -526,27 +526,27 @@ http://jiaojirentv.top/2020/dy.php?id=6566658
 #EXTINF:-1 tvg-name="爱情公寓4" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓4
 https://www.goodiptv.club/bilibili/1706434244
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",铁齿铜牙纪晓岚
-https://www.goodiptv.club/huya/11342396
+http://dns.yiandrive.com:15907/huya/11342396
 #EXTINF:-1 tvg-name="87红楼梦" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",87红楼梦
-https://www.goodiptv.club/huya/30080221
+http://dns.yiandrive.com:15907/huya/30080221
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",新三国
 http://jiaojirentv.top/2020/dy.php?id=5908256
 #EXTINF:-1 tvg-name="新水浒传" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",新水浒传
 http://jiaojirentv.top/2020/yy.php?id=1353873252
 #EXTINF:-1 tvg-name="繁花" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",繁花
-https://www.goodiptv.club/huya/21059580
+http://dns.yiandrive.com:15907/huya/21059580
 #EXTINF:-1 tvg-name="白鹿原" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",白鹿原
-https://www.goodiptv.club/huya/11342416
+http://dns.yiandrive.com:15907/huya/11342416
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",父母爱情
 http://jiaojirentv.top/2020/yy.php?id=1354926650
 #EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",雍正王朝
-https://www.goodiptv.club/huya/11342439
+http://dns.yiandrive.com:15907/huya/11342439
 #EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",康熙王朝
-https://www.goodiptv.club/huya/11352940
+http://dns.yiandrive.com:15907/huya/11352940
 #EXTINF:-1 tvg-name="神话" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",神话
 http://jiaojirentv.top/2020/dy.php?id=5448413
 #EXTINF:-1 tvg-name="绝代双骄" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",绝代双骄
-https://www.goodiptv.club/huya/29465867
+http://dns.yiandrive.com:15907/huya/29465867
 #EXTINF:-1 tvg-name="伪装者" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",伪装者
 http://jiaojirentv.top/2020/yy.php?id=1354936244
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",隋唐英雄传
@@ -554,7 +554,7 @@ http://jiaojirentv.top/2020/yy.php?id=1352475619
 #EXTINF:-1 tvg-name="仙剑奇侠转" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",仙剑奇侠转
 http://jiaojirentv.top/2020/yy.php?id=1382749903
 #EXTINF:-1 tvg-name="陈情令" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",陈情令
-https://www.goodiptv.club/huya/29465862
+http://dns.yiandrive.com:15907/huya/29465862
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",亮剑
 http://jiaojirentv.top/2020/yy.php?id=1451866697
 #EXTINF:-1 tvg-name="破产姐妹" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",破产姐妹
@@ -562,7 +562,7 @@ http://jiaojirentv.top/2020/yy.php?id=75001
 #EXTINF:-1 tvg-name="生活大爆炸" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",生活大爆炸
 http://jiaojirentv.top/2020/dy.php?id=6668627
 #EXTINF:-1 tvg-name="老友记" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",老友记
-https://www.goodiptv.club/huya/26355834
+http://dns.yiandrive.com:15907/huya/26355834
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",狂飙
 http://jiaojirentv.top/2020/yy.php?id=1355142167
 #EXTINF:-1 tvg-name="天道" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",天道
@@ -578,11 +578,11 @@ https://www.goodiptv.club/bilibili/22180193
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典动漫",蜡笔小新
 https://www.goodiptv.club/bilibili/1982632047
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",哆啦A梦
-https://www.goodiptv.club/huya/11601963
+http://dns.yiandrive.com:15907/huya/11601963
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",猫和老鼠
-https://www.goodiptv.club/huya/11352879
+http://dns.yiandrive.com:15907/huya/11352879
 #EXTINF:-1 tvg-name="头文字D" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",头文字D
-https://www.goodiptv.club/huya/11352889
+http://dns.yiandrive.com:15907/huya/11352889
 #EXTINF:-1 tvg-name="柯南" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典动漫",柯南
 http://jiaojirentv.top/2020/dy.php?id=6484910
 #EXTINF:-1 tvg-name="经典港片" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典电影",经典港片
@@ -596,7 +596,7 @@ http://jiaojirentv.top/2020/yy.php?id=1382735570
 #EXTINF:-1 tvg-name="国外科幻" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",国外科幻
 http://jiaojirentv.top/2020/yy.php?id=1382736836
 #EXTINF:-1 tvg-name="开心麻花" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典电影",开心麻花
-https://www.goodiptv.club/huya/11601968
+http://dns.yiandrive.com:15907/huya/11601968
 #EXTINF:-1 tvg-name="哈利波特" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",哈利波特
 http://jiaojirentv.top/2020/yy.php?id=1382745105
 #EXTINF:-1 tvg-name="变形金刚" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典电影",变形金刚
@@ -614,7 +614,7 @@ https://www.goodiptv.club/bilibili/14907697
 #EXTINF:-1 tvg-name="直播地球" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",直播地球
 https://www.goodiptv.club/bilibili/22973029
 #EXTINF:-1 tvg-name="风味人间" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="纪录片",风味人间
-https://www.goodiptv.club/huya/26355760
+http://dns.yiandrive.com:15907/huya/26355760
 #EXTINF:-1 tvg-name="舌尖上的中国2" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",舌尖上的中国2
 http://jiaojirentv.top/2020/yy.php?id=1354930943
 #EXTINF:-1 tvg-name="从秦始皇到汉武帝" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",从秦始皇到汉武帝
