@@ -522,31 +522,33 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",武林外传
-http://jiaojirentv.top/2020/yy.php?id=1355652820
+http://dns.yiandrive.com:15907/yy/1355652820
 #EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",家有儿女2
-http://jiaojirentv.top/2020/dy.php?id=11827530
+http://dns.yiandrive.com:15907/douyu/11827530
 #EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",家有儿女2
 http://dns.yiandrive.com:15907/huya/11352872
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",龙门镖局
+http://dns.yiandrive.com:15907/huya/11352874
 #EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",东北一家人
-http://jiaojirentv.top/2020/dy.php?id=7642724
+http://dns.yiandrive.com:15907/douyu/7642724
 #EXTINF:-1 tvg-name="炊事班的故事1" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",炊事班的故事1
-http://jiaojirentv.top/2020/yy.php?id=1382749901
+http://dns.yiandrive.com:15907/yy/1382749901
 #EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",炊事班的故事3
-http://jiaojirentv.top/2020/dy.php?id=319576
+http://dns.yiandrive.com:15907/douyu/319576
 #EXTINF:-1 tvg-name="鹊刀门" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",鹊刀门
-http://jiaojirentv.top/2020/yy.php?id=1355344777
+http://dns.yiandrive.com:15907/yy/1355344777
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",庆余年
-http://jiaojirentv.top/2020/dy.php?id=5062195
+http://dns.yiandrive.com:15907/douyu/5062195
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",地下交通站
-http://jiaojirentv.top/2020/dy.php?id=299854
-#EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",甄嬛传
+http://dns.yiandrive.com:15907/douyu/299854
+#EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",甄嬛传
 https://raw.gitcode.com/Hallehujah_h/HOX/raw/main//playlist.m3u
-#EXTINF:-1 tvg-name="如懿传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",如懿传
+#EXTINF:-1 tvg-name="如懿传" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",如懿传
 http://dns.yiandrive.com:15907/huya/29465868
-#EXTINF:-1 tvg-name="芈月传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",芈月传
+#EXTINF:-1 tvg-name="芈月传" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",芈月传
 http://dns.yiandrive.com:15907/huya/26355775
 #EXTINF:-1 tvg-name="知否知否" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",知否知否
-http://jiaojirentv.top/2020/yy.php?id=21881901
+http://dns.yiandrive.com:15907/yy/21881901
 #EXTINF:-1 tvg-name="三生三世" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",三生三世
 http://zby.xjqxz.top/sssszss/live
 #EXTINF:-1 tvg-name="花千骨" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",花千骨
@@ -557,8 +559,8 @@ http://dns.yiandrive.com:15907/huya/11336590
 https://www.goodiptv.club/bilibili/1746146330
 #EXTINF:-1 tvg-name="爱情公寓2" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓2
 https://www.goodiptv.club/bilibili/32200850
-#EXTINF:-1 tvg-name="爱情公寓3" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",爱情公寓3
-http://jiaojirentv.top/2020/dy.php?id=6566658
+#EXTINF:-1 tvg-name="爱情公寓3" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",爱情公寓3
+http://dns.yiandrive.com:15907/huya/11336726
 #EXTINF:-1 tvg-name="爱情公寓4" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓4
 https://www.goodiptv.club/bilibili/1706434244
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",铁齿铜牙纪晓岚
@@ -566,49 +568,49 @@ http://dns.yiandrive.com:15907/huya/11342396
 #EXTINF:-1 tvg-name="87红楼梦" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",87红楼梦
 http://dns.yiandrive.com:15907/huya/30080221
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",新三国
-http://jiaojirentv.top/2020/dy.php?id=5908256
+http://dns.yiandrive.com:15907/douyu/5908256
 #EXTINF:-1 tvg-name="新水浒传" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",新水浒传
-http://jiaojirentv.top/2020/yy.php?id=1353873252
+http://dns.yiandrive.com:15907/yy/1353873252
 #EXTINF:-1 tvg-name="繁花" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",繁花
 http://dns.yiandrive.com:15907/huya/21059580
 #EXTINF:-1 tvg-name="白鹿原" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",白鹿原
 http://dns.yiandrive.com:15907/huya/11342416
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",父母爱情
-http://jiaojirentv.top/2020/yy.php?id=1354926650
+http://dns.yiandrive.com:15907/yy/1354926650
 #EXTINF:-1 tvg-name="雍正王朝" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",雍正王朝
 http://dns.yiandrive.com:15907/huya/11342439
 #EXTINF:-1 tvg-name="康熙王朝" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",康熙王朝
 http://dns.yiandrive.com:15907/huya/11352940
 #EXTINF:-1 tvg-name="神话" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",神话
-http://jiaojirentv.top/2020/dy.php?id=5448413
+http://dns.yiandrive.com:15907/douyu/5448413
 #EXTINF:-1 tvg-name="绝代双骄" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",绝代双骄
 http://dns.yiandrive.com:15907/huya/29465867
 #EXTINF:-1 tvg-name="伪装者" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",伪装者
-http://jiaojirentv.top/2020/yy.php?id=1354936244
+http://dns.yiandrive.com:15907/yy/1354936244
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",隋唐英雄传
-http://jiaojirentv.top/2020/yy.php?id=1352475619
+http://dns.yiandrive.com:15907/yy/1352475619
 #EXTINF:-1 tvg-name="仙剑奇侠转" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",仙剑奇侠转
-http://jiaojirentv.top/2020/yy.php?id=1382749903
+http://dns.yiandrive.com:15907/yy/1382749903
 #EXTINF:-1 tvg-name="陈情令" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",陈情令
 http://dns.yiandrive.com:15907/huya/29465862
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",亮剑
-http://jiaojirentv.top/2020/yy.php?id=1451866697
+http://dns.yiandrive.com:15907/yy/1451866697
 #EXTINF:-1 tvg-name="破产姐妹" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",破产姐妹
-http://jiaojirentv.top/2020/yy.php?id=75001
+http://dns.yiandrive.com:15907/yy/75001
 #EXTINF:-1 tvg-name="生活大爆炸" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",生活大爆炸
-http://jiaojirentv.top/2020/dy.php?id=6668627
+http://dns.yiandrive.com:15907/douyu/6668627
 #EXTINF:-1 tvg-name="老友记" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",老友记
 http://dns.yiandrive.com:15907/huya/26355834
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",狂飙
-http://jiaojirentv.top/2020/yy.php?id=1355142167
+http://dns.yiandrive.com:15907/yy/1355142167
 #EXTINF:-1 tvg-name="天道" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",天道
 https://lunbo.freetv.top/yy/1382735574
 #EXTINF:-1 tvg-name="小欢喜" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",小欢喜
-http://jiaojirentv.top/2020/yy.php?id=1382737888
+http://dns.yiandrive.com:15907/yy/1382737888
 #EXTINF:-1 tvg-name="都挺好" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",都挺好
-http://jiaojirentv.top/2020/yy.php?id=1382736892
+http://dns.yiandrive.com:15907/yy/1382736892
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典动漫",海绵宝宝
-http://jiaojirentv.top/2020/dy.php?id=3949681
+http://dns.yiandrive.com:15907/douyu/3949681
 #EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",樱桃小丸子
 https://www.goodiptv.club/bilibili/22180193
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典动漫",蜡笔小新
@@ -619,26 +621,28 @@ http://dns.yiandrive.com:15907/huya/11601963
 http://dns.yiandrive.com:15907/huya/11352879
 #EXTINF:-1 tvg-name="头文字D" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",头文字D
 http://dns.yiandrive.com:15907/huya/11352889
+#EXTINF:-1 tvg-name="火影忍者" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",火影忍者
+http://dns.yiandrive.com:15907/huya/29465866
 #EXTINF:-1 tvg-name="柯南" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典动漫",柯南
-http://jiaojirentv.top/2020/dy.php?id=6484910
+http://dns.yiandrive.com:15907/douyu/6484910
 #EXTINF:-1 tvg-name="经典港片" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典电影",经典港片
-http://jiaojirentv.top/2020/dy.php?id=4346416
+http://dns.yiandrive.com:15907/douyu/4346416
 #EXTINF:-1 tvg-name="速度与激情" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",速度与激情
-http://jiaojirentv.top/2020/yy.php?id=1382736911
+http://dns.yiandrive.com:15907/yy/1382736911
 #EXTINF:-1 tvg-name="漫威系列" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",漫威系列
-http://jiaojirentv.top/2020/yy.php?id=1354930233
+http://dns.yiandrive.com:15907/yy/1354930233
 #EXTINF:-1 tvg-name="国外动作" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",国外动作
-http://jiaojirentv.top/2020/yy.php?id=1382735570
+http://dns.yiandrive.com:15907/yy/1382735570
 #EXTINF:-1 tvg-name="国外科幻" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",国外科幻
-http://jiaojirentv.top/2020/yy.php?id=1382736836
+http://dns.yiandrive.com:15907/yy/1382736836
 #EXTINF:-1 tvg-name="开心麻花" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典电影",开心麻花
 http://dns.yiandrive.com:15907/huya/11601968
 #EXTINF:-1 tvg-name="哈利波特" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",哈利波特
-http://jiaojirentv.top/2020/yy.php?id=1382745105
+http://dns.yiandrive.com:15907/yy/1382745105
 #EXTINF:-1 tvg-name="变形金刚" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典电影",变形金刚
-http://jiaojirentv.top/2020/yy.php?id=1382736803
+http://dns.yiandrive.com:15907/yy/1382736803
 #EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",豆瓣高分
-http://jiaojirentv.top/2020/dy.php?id=8770422
+http://dns.yiandrive.com:15907/douyu/8770422
 #EXTINF:-1 tvg-name="自习室一" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",自习室一
 https://www.goodiptv.club/bilibili/14811517
 #EXTINF:-1 tvg-name="自习室二" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",自习室二
@@ -652,11 +656,12 @@ https://www.goodiptv.club/bilibili/22973029
 #EXTINF:-1 tvg-name="风味人间" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="纪录片",风味人间
 http://dns.yiandrive.com:15907/huya/26355760
 #EXTINF:-1 tvg-name="舌尖上的中国2" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",舌尖上的中国2
-http://jiaojirentv.top/2020/yy.php?id=1354930943
+http://dns.yiandrive.com:15907/yy/1354930943
 #EXTINF:-1 tvg-name="从秦始皇到汉武帝" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",从秦始皇到汉武帝
-http://jiaojirentv.top/2020/yy.php?id=1354936228
+http://dns.yiandrive.com:15907/yy/1354936228
 #EXTINF:-1 tvg-name="游钓中国" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",游钓中国
-http://jiaojirentv.top/2020/dy.php?id=791411
+http://dns.yiandrive.com:15907/douyu/791411
+
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="甄嬛传",第01集
 https://play.modujx13.com/20240714/yzdBRIrl/index.m3u8
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="甄嬛传",第02集
