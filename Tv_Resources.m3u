@@ -556,13 +556,13 @@ http://dns.yiandrive.com:15907/huya/26355839
 #EXTINF:-1 tvg-name="梦华录" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",梦华录
 http://dns.yiandrive.com:15907/huya/11336590
 #EXTINF:-1 tvg-name="爱情公寓1" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓1
-https://www.goodiptv.club/bilibili/1746146330
+http://dns.yiandrive.com:15907/bilibili/1746146330
 #EXTINF:-1 tvg-name="爱情公寓2" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓2
-https://www.goodiptv.club/bilibili/32200850
+http://dns.yiandrive.com:15907/bilibili/32200850
 #EXTINF:-1 tvg-name="爱情公寓3" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",爱情公寓3
 http://dns.yiandrive.com:15907/huya/11336726
 #EXTINF:-1 tvg-name="爱情公寓4" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典影视",爱情公寓4
-https://www.goodiptv.club/bilibili/1706434244
+http://dns.yiandrive.com:15907/bilibili/1706434244
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",铁齿铜牙纪晓岚
 http://dns.yiandrive.com:15907/huya/11342396
 #EXTINF:-1 tvg-name="87红楼梦" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="经典影视",87红楼梦
@@ -601,6 +601,8 @@ http://jiaojirentv.top/2020/yy.php?id=75001
 http://dns.yiandrive.com:15907/douyu/6668627
 #EXTINF:-1 tvg-name="老友记" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",老友记
 http://dns.yiandrive.com:15907/huya/26355834
+#EXTINF:-1 tvg-name="扫黑风暴" tvg-logo="https://live.iill.top/youtube/Owke6Quk7T0" group-title="经典影视",扫黑风暴
+http://dns.yiandrive.com:15907/huya/11342404
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",狂飙
 http://jiaojirentv.top/2020/yy.php?id=1355142167
 #EXTINF:-1 tvg-name="天道" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",天道
@@ -612,9 +614,9 @@ http://jiaojirentv.top/2020/yy.php?id=1382736892
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典动漫",海绵宝宝
 http://dns.yiandrive.com:15907/douyu/3949681
 #EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",樱桃小丸子
-https://www.goodiptv.club/bilibili/22180193
+http://dns.yiandrive.com:15907/bilibili/22180193
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="经典动漫",蜡笔小新
-https://www.goodiptv.club/bilibili/1982632047
+http://dns.yiandrive.com:15907/bilibili/1982632047
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",哆啦A梦
 http://dns.yiandrive.com:15907/huya/11601963
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典动漫",猫和老鼠
@@ -644,15 +646,17 @@ http://jiaojirentv.top/2020/yy.php?id=1382736803
 #EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典电影",豆瓣高分
 http://dns.yiandrive.com:15907/douyu/8770422
 #EXTINF:-1 tvg-name="自习室一" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",自习室一
-https://www.goodiptv.club/bilibili/14811517
+http://dns.yiandrive.com:15907/bilibili/14811517
 #EXTINF:-1 tvg-name="自习室二" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",自习室二
-https://www.goodiptv.club/bilibili/543176
+http://dns.yiandrive.com:15907/bilibili/543176
+#EXTINF:-1 tvg-name="city_pop" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",city_pop
+http://dns.yiandrive.com:15907/bilibili/31454224
 #EXTINF:-1 tvg-name="直播南京" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",直播南京
-https://www.goodiptv.club/bilibili/23112806
+http://dns.yiandrive.com:15907/bilibili/23112806
 #EXTINF:-1 tvg-name="Light_Music" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",Light_Music
-https://www.goodiptv.club/bilibili/14907697
+http://dns.yiandrive.com:15907/bilibili/14907697
 #EXTINF:-1 tvg-name="直播地球" tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="自习室",直播地球
-https://www.goodiptv.club/bilibili/22973029
+http://dns.yiandrive.com:15907/bilibili/22973029
 #EXTINF:-1 tvg-name="风味人间" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="纪录片",风味人间
 http://dns.yiandrive.com:15907/huya/26355760
 #EXTINF:-1 tvg-name="舌尖上的中国2" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="纪录片",舌尖上的中国2
