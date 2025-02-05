@@ -206,16 +206,14 @@ https://www.freetv.top/migu/923287211.m3u8?migutoken=e10c49e5acd1432eabfb522c335
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="教育",CETV4
 https://www.freetv.top/migu/923287339.m3u8?migutoken=cc1baca9f1a3d6155950a3841c9c4f7bc379f310b557b72d94047ec4e9ffd68468ba78b0c3fd26a145eb0ae47363bc5dba505805276cabd0e23e82cf0cf945968c194fc2177ee32a7d9bf85492
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视IPV4",凤凰资讯
-http://148.135.93.213:81/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视IPV4",凤凰中文
-http://148.135.93.213:81/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="卫视IPV4",凤凰香港
-http://148.135.93.213:81/phenix.php?id=fhhk
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视IPV4",CHC家庭影院
-http://148.135.93.213:81/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="央视IPV4",CHC动作电影
-http://148.135.93.213:81/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•港澳「限制」",鳳凰衛視·中文「限UA」
+http://dns.yiandrive.com:15907/phenix/fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•港澳「限制」",鳳凰衛視·資訊「限UA」
+http://dns.yiandrive.com:15907/phenix/fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•港澳「限制」",鳳凰衛視·香港「限UA」
+http://dns.yiandrive.com:15907/phenix/fhhk
+#EXTINF:-1 tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="•港澳「限制」",HOY 國際財經台「限HK」
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://tv.iill.top/LOGO/1354936131&yy&logo" group-title="经典影视",武林外传
 http://jiaojirentv.top/2020/yy.php?id=1355652820
