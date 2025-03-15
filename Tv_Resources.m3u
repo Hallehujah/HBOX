@@ -156,7 +156,7 @@ http://dns.yiandrive.com:15907/huya/11352960
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="经典影视",地下交通站
 http://dns.yiandrive.com:15907/douyu/299854
 #EXTINF:-1 tvg-name="甄嬛传" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",甄嬛传
-https://raw.gitcode.com/Hallehujah_h/HOX/raw/main//playlist.m3u
+http://dns.yiandrive.com:15907/bilibili/22970821
 #EXTINF:-1 tvg-name="如懿传" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",如懿传
 http://dns.yiandrive.com:15907/huya/29465868
 #EXTINF:-1 tvg-name="芈月传" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="经典影视",芈月传
